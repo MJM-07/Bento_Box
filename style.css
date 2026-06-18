@@ -1,0 +1,67 @@
+/* General */
+body {
+    font-family: Arial, sans-serif;
+}
+
+/* Navbar */
+.navbar {
+    background-color: #667eea;
+}
+
+/* Hero Section */
+.hero-text {
+    background: rgba(0, 0, 0, 0.5);
+    padding: 20px;
+    border-radius: 10px;
+}
+
+/* Section Title */
+.section-title {
+    color: #667eea;
+    font-weight: bold;
+    margin-bottom: 30px;
+}
+
+/* Card Hover Effect */
+.card {
+    transition: 0.4s;
+}
+
+.card:hover {
+    transform: translateY(-8px);
+}
+
+/* Offer Section */
+.offer-section {
+    background: #f0f0ff;
+}
+
+.offer-img {
+    height: 350px;
+    width: 100%;
+    object-fit: cover;
+}
+
+/* Button */
+.btn-danger {
+    background-color: #667eea;
+    border: none;
+}
+
+.btn-danger:hover {
+    background-color: #764ba2;
+}
+/* Footer */
+footer {
+    background: #667eea;
+    color: white;
+}
+
+footer a {
+    color: white;
+    text-decoration: none;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
