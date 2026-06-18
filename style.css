@@ -56,6 +56,11 @@ footer {
     background: #667eea;
     color: white;
 }
+.text-center {
+    text-align: center !important;
+    margin-bottom: auto;
+    padding-bottom: 20px;
+}
 
 footer a {
     color: white;
